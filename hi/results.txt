@@ -1,0 +1,79 @@
+file name: test7.txt
+
+first most likely
+eight : log likelihood =  -2116.1234473055983
+second most likely
+inf : log likelihood =  -6468.281729168932
+third most likely
+wave : log likelihood =  -9416.833505857188
+_________________________________
+
+file name: test6.txt
+
+first most likely
+inf : log likelihood =  -2286.6474973956074
+second most likely
+eight : log likelihood =  -6848.7768369628675
+third most likely
+beat3 : log likelihood =  -11921.94000617446
+_________________________________
+
+file name: test4.txt
+
+first most likely
+beat4 : log likelihood =  -2267.2350385526806
+second most likely
+beat3 : log likelihood =  -2560.6776578666686
+third most likely
+inf : log likelihood =  -8412.551154726658
+_________________________________
+
+file name: test5.txt
+
+first most likely
+circle : log likelihood =  -1092.2034396164404
+second most likely
+beat4 : log likelihood =  -6618.647494843818
+third most likely
+beat3 : log likelihood =  -7302.0122388623695
+_________________________________
+
+file name: test1.txt
+
+first most likely
+wave : log likelihood =  -893.2516150121374
+second most likely
+beat3 : log likelihood =  -5326.264680168799
+third most likely
+beat4 : log likelihood =  -5646.765040518498
+_________________________________
+
+file name: test2.txt
+
+first most likely
+beat3 : log likelihood =  -2575.063382257217
+second most likely
+beat4 : log likelihood =  -2713.9487845026824
+third most likely
+inf : log likelihood =  -11262.532235546754
+_________________________________
+
+file name: test3.txt
+
+first most likely
+inf : log likelihood =  -2053.536530189849
+second most likely
+eight : log likelihood =  -5597.703762567041
+third most likely
+beat3 : log likelihood =  -10535.423253759254
+_________________________________
+
+file name: test8.txt
+
+first most likely
+beat3 : log likelihood =  -2078.2460914221965
+second most likely
+beat4 : log likelihood =  -2299.908158806965
+third most likely
+wave : log likelihood =  -10726.90763034704
+
